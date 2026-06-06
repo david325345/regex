@@ -1104,6 +1104,97 @@
       "tagStyle": "filled and bordered",
       "textColor": "#FFFFFF",
       "type": "filter"
+    },
+    {
+      "borderColor": "#00000000",
+      "groupId": "gsrc",
+      "id": "src-remux",
+      "imageURL": "https://raw.githubusercontent.com/david325345/regex/main/badges/remux.png",
+      "isEnabled": true,
+      "name": "REMUX",
+      "pattern": "(?i)\\b(?:bd[\\s._-]?remux|remux)\\b",
+      "tagColor": "#00000000",
+      "tagStyle": "filled and bordered",
+      "textColor": "#FFFFFF",
+      "type": "filter"
+    },
+    {
+      "borderColor": "#00000000",
+      "groupId": "gsrc",
+      "id": "src-bluray",
+      "imageURL": "https://raw.githubusercontent.com/david325345/regex/main/badges/bluray.png",
+      "isEnabled": true,
+      "name": "BluRay",
+      "pattern": "(?i)\\bblu[\\s._-]?ray\\b",
+      "tagColor": "#00000000",
+      "tagStyle": "filled and bordered",
+      "textColor": "#FFFFFF",
+      "type": "filter"
+    },
+    {
+      "borderColor": "#00000000",
+      "groupId": "gsrc",
+      "id": "src-bdrip",
+      "imageURL": "https://raw.githubusercontent.com/david325345/regex/main/badges/bdrip.png",
+      "isEnabled": true,
+      "name": "BDRip",
+      "pattern": "(?i)\\bbd[\\s._-]?rip\\b",
+      "tagColor": "#00000000",
+      "tagStyle": "filled and bordered",
+      "textColor": "#FFFFFF",
+      "type": "filter"
+    },
+    {
+      "borderColor": "#00000000",
+      "groupId": "gsrc",
+      "id": "src-web-dl",
+      "imageURL": "https://raw.githubusercontent.com/david325345/regex/main/badges/web-dl.png",
+      "isEnabled": true,
+      "name": "WEB-DL",
+      "pattern": "(?i)\\bweb[\\s._-]?dl\\b",
+      "tagColor": "#00000000",
+      "tagStyle": "filled and bordered",
+      "textColor": "#FFFFFF",
+      "type": "filter"
+    },
+    {
+      "borderColor": "#00000000",
+      "groupId": "gsrc",
+      "id": "src-webrip",
+      "imageURL": "https://raw.githubusercontent.com/david325345/regex/main/badges/webrip.png",
+      "isEnabled": true,
+      "name": "WEBRip",
+      "pattern": "(?i)\\bweb[\\s._-]?rip\\b",
+      "tagColor": "#00000000",
+      "tagStyle": "filled and bordered",
+      "textColor": "#FFFFFF",
+      "type": "filter"
+    },
+    {
+      "borderColor": "#00000000",
+      "groupId": "gsrc",
+      "id": "src-hdtv",
+      "imageURL": "https://raw.githubusercontent.com/david325345/regex/main/badges/hdtv.png",
+      "isEnabled": true,
+      "name": "HDTV",
+      "pattern": "(?i)\\bhdtv\\b",
+      "tagColor": "#00000000",
+      "tagStyle": "filled and bordered",
+      "textColor": "#FFFFFF",
+      "type": "filter"
+    },
+    {
+      "borderColor": "#00000000",
+      "groupId": "gsrc",
+      "id": "src-dvdrip",
+      "imageURL": "https://raw.githubusercontent.com/david325345/regex/main/badges/dvdrip.png",
+      "isEnabled": true,
+      "name": "DVDRip",
+      "pattern": "(?i)\\b(?:dvd[\\s._-]?rip|dvd)\\b",
+      "tagColor": "#00000000",
+      "tagStyle": "filled and bordered",
+      "textColor": "#FFFFFF",
+      "type": "filter"
     }
   ],
   "groups": [
@@ -1120,6 +1211,13 @@
       "id": "gres",
       "isExpanded": true,
       "name": "Resolution"
+    },
+    {
+      "borderColor": "#00000000",
+      "color": "#8E44AD",
+      "id": "gsrc",
+      "isExpanded": true,
+      "name": "Source"
     }
   ]
 }
