@@ -228,7 +228,7 @@
       "imageURL": "https://raw.githubusercontent.com/david325345/regex/main/badges/subsplus-plus.png",
       "isEnabled": true,
       "name": "SubsPlus+",
-      "pattern": "(?i)\\bSubsPlus\\+\\b",
+      "pattern": "(?i)\\bSubsPlus\\+",
       "tagColor": "#00000000",
       "tagStyle": "filled and bordered",
       "textColor": "#FFFFFF",
