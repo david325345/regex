@@ -1169,6 +1169,19 @@
    "tagStyle": "filled and bordered",
    "textColor": "#FFFFFF",
    "type": "filter"
+  },
+  {
+   "borderColor": "#00000000",
+   "groupId": "gg",
+   "id": "gg-feibanyama",
+   "imageURL": "https://raw.githubusercontent.com/david325345/regex/main/badges/feibanyama.png",
+   "isEnabled": true,
+   "name": "Feibanyama",
+   "pattern": "(?i)\\bFeibanyama\\b",
+   "tagColor": "#00000000",
+   "tagStyle": "filled and bordered",
+   "textColor": "#FFFFFF",
+   "type": "filter"
   }
  ],
  "groups": [
