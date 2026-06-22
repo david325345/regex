@@ -1143,6 +1143,32 @@
    "tagStyle": "filled and bordered",
    "textColor": "#FFFFFF",
    "type": "filter"
+  },
+  {
+   "borderColor": "#00000000",
+   "groupId": "gfps",
+   "id": "gfps-144fps",
+   "imageURL": "https://raw.githubusercontent.com/david325345/regex/main/badges/144fps.png",
+   "isEnabled": true,
+   "name": "144fps",
+   "pattern": "(?i)\\b144\\s?fps\\b",
+   "tagColor": "#00000000",
+   "tagStyle": "filled and bordered",
+   "textColor": "#FFFFFF",
+   "type": "filter"
+  },
+  {
+   "borderColor": "#00000000",
+   "groupId": "gfps",
+   "id": "gfps-143-8561fps",
+   "imageURL": "https://raw.githubusercontent.com/david325345/regex/main/badges/143.8561fps.png",
+   "isEnabled": true,
+   "name": "143.8561fps",
+   "pattern": "(?i)\\b143\\.8561\\s?fps\\b",
+   "tagColor": "#00000000",
+   "tagStyle": "filled and bordered",
+   "textColor": "#FFFFFF",
+   "type": "filter"
   }
  ],
  "groups": [
@@ -1187,6 +1213,13 @@
    "id": "gplat",
    "isExpanded": true,
    "name": "Platform"
+  },
+  {
+   "borderColor": "#00000000",
+   "color": "#888780",
+   "id": "gfps",
+   "isExpanded": true,
+   "name": "FPS"
   }
  ]
 }
