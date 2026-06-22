@@ -1182,6 +1182,32 @@
    "tagStyle": "filled and bordered",
    "textColor": "#FFFFFF",
    "type": "filter"
+  },
+  {
+   "borderColor": "#00000000",
+   "groupId": "gg",
+   "id": "gg-vlbe3l",
+   "imageURL": "https://raw.githubusercontent.com/david325345/regex/main/badges/vlbe3l.png",
+   "isEnabled": true,
+   "name": "vLbE3L",
+   "pattern": "(?i)\\bvLbE3L\\b",
+   "tagColor": "#00000000",
+   "tagStyle": "filled and bordered",
+   "textColor": "#FFFFFF",
+   "type": "filter"
+  },
+  {
+   "borderColor": "#00000000",
+   "groupId": "gg",
+   "id": "gg-lbe3l",
+   "imageURL": "https://raw.githubusercontent.com/david325345/regex/main/badges/lbe3l.png",
+   "isEnabled": true,
+   "name": "LbE3L",
+   "pattern": "(?i)\\bLbE3L\\b",
+   "tagColor": "#00000000",
+   "tagStyle": "filled and bordered",
+   "textColor": "#FFFFFF",
+   "type": "filter"
   }
  ],
  "groups": [
