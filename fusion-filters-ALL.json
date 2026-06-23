@@ -1234,6 +1234,19 @@
    "tagStyle": "filled and bordered",
    "textColor": "#FFFFFF",
    "type": "filter"
+  },
+  {
+   "borderColor": "#00000000",
+   "groupId": "ggenre",
+   "id": "ggenre-hentai",
+   "imageURL": "https://raw.githubusercontent.com/david325345/regex/main/badges/hentai.png",
+   "isEnabled": true,
+   "name": "Hentai",
+   "pattern": "(?i)\\bhentai\\b",
+   "tagColor": "#00000000",
+   "tagStyle": "filled and bordered",
+   "textColor": "#FFFFFF",
+   "type": "filter"
   }
  ],
  "groups": [
@@ -1285,6 +1298,13 @@
    "id": "gfps",
    "isExpanded": true,
    "name": "FPS"
+  },
+  {
+   "borderColor": "#00000000",
+   "color": "#c062d6",
+   "id": "ggenre",
+   "isExpanded": true,
+   "name": "Žánr"
   }
  ]
 }
