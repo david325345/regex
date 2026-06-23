@@ -969,7 +969,7 @@
    "imageURL": "https://raw.githubusercontent.com/david325345/regex/main/badges/en.png",
    "isEnabled": true,
    "name": "EN",
-   "pattern": "(?i)\\b(en|eng|english)\\b",
+   "pattern": "(?i)\\b(en|eng|english|engsub|ensub|multi|multisub|multisubs|dual)\\b",
    "tagColor": "#00000000",
    "tagStyle": "filled and bordered",
    "textColor": "#FFFFFF",
