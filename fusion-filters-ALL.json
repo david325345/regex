@@ -1338,6 +1338,19 @@
    "tagStyle": "filled and bordered",
    "textColor": "#FFFFFF",
    "type": "filter"
+  },
+  {
+   "borderColor": "#00000000",
+   "groupId": "gg",
+   "id": "gg-derpie",
+   "imageURL": "https://raw.githubusercontent.com/david325345/regex/main/badges/derpie.png",
+   "isEnabled": true,
+   "name": "Derpie",
+   "pattern": "(?i)\\bderpie\\b",
+   "tagColor": "#00000000",
+   "tagStyle": "filled and bordered",
+   "textColor": "#FFFFFF",
+   "type": "filter"
   }
  ],
  "groups": [
