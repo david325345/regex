@@ -1299,6 +1299,19 @@
    "tagStyle": "filled and bordered",
    "textColor": "#FFFFFF",
    "type": "filter"
+  },
+  {
+   "borderColor": "#00000000",
+   "groupId": "gg",
+   "id": "gg-beatrice-raws",
+   "imageURL": "https://raw.githubusercontent.com/david325345/regex/main/badges/beatrice-raws.png",
+   "isEnabled": true,
+   "name": "Beatrice-Raws",
+   "pattern": "(?i)\\bbeatrice[\\-\\s]?raws\\b",
+   "tagColor": "#00000000",
+   "tagStyle": "filled and bordered",
+   "textColor": "#FFFFFF",
+   "type": "filter"
   }
  ],
  "groups": [
