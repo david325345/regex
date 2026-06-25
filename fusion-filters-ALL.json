@@ -1260,6 +1260,19 @@
    "tagStyle": "filled and bordered",
    "textColor": "#FFFFFF",
    "type": "filter"
+  },
+  {
+   "borderColor": "#00000000",
+   "groupId": "gg",
+   "id": "gg-exiled-destiny",
+   "imageURL": "https://raw.githubusercontent.com/david325345/regex/main/badges/exiled-destiny.png",
+   "isEnabled": true,
+   "name": "Exiled-Destiny",
+   "pattern": "(?i)\\bexiled[\\-\\s]?destiny\\b",
+   "tagColor": "#00000000",
+   "tagStyle": "filled and bordered",
+   "textColor": "#FFFFFF",
+   "type": "filter"
   }
  ],
  "groups": [
