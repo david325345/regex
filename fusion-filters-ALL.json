@@ -588,6 +588,19 @@
   {
    "borderColor": "#00000000",
    "groupId": "gres",
+   "id": "gres-8k",
+   "imageURL": "https://raw.githubusercontent.com/david325345/regex/main/badges/8k.png",
+   "isEnabled": true,
+   "name": "8K",
+   "pattern": "(?i)\\b(4320p|8k)\\b",
+   "tagColor": "#00000000",
+   "tagStyle": "filled and bordered",
+   "textColor": "#FFFFFF",
+   "type": "filter"
+  },
+  {
+   "borderColor": "#00000000",
+   "groupId": "gres",
    "id": "gres-4k",
    "imageURL": "https://raw.githubusercontent.com/david325345/regex/main/badges/4k.png",
    "isEnabled": true,
