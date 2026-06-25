@@ -1273,6 +1273,19 @@
    "tagStyle": "filled and bordered",
    "textColor": "#FFFFFF",
    "type": "filter"
+  },
+  {
+   "borderColor": "#00000000",
+   "groupId": "gg",
+   "id": "gg-coalgirls",
+   "imageURL": "https://raw.githubusercontent.com/david325345/regex/main/badges/coalgirls.png",
+   "isEnabled": true,
+   "name": "Coalgirls",
+   "pattern": "(?i)\\bcoalgirls\\b",
+   "tagColor": "#00000000",
+   "tagStyle": "filled and bordered",
+   "textColor": "#FFFFFF",
+   "type": "filter"
   }
  ],
  "groups": [
