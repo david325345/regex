@@ -1351,6 +1351,19 @@
    "tagStyle": "filled and bordered",
    "textColor": "#FFFFFF",
    "type": "filter"
+  },
+  {
+   "borderColor": "#00000000",
+   "groupId": "gg",
+   "id": "gg-tsundere-raws",
+   "imageURL": "https://raw.githubusercontent.com/david325345/regex/main/badges/tsundere-raws.png",
+   "isEnabled": true,
+   "name": "Tsundere-Raws",
+   "pattern": "(?i)\\btsundere[\\-\\s]?raws\\b",
+   "tagColor": "#00000000",
+   "tagStyle": "filled and bordered",
+   "textColor": "#FFFFFF",
+   "type": "filter"
   }
  ],
  "groups": [
