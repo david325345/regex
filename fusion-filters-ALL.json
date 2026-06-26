@@ -1377,6 +1377,19 @@
    "tagStyle": "filled and bordered",
    "textColor": "#FFFFFF",
    "type": "filter"
+  },
+  {
+   "borderColor": "#00000000",
+   "groupId": "gg",
+   "id": "gg-sev",
+   "imageURL": "https://raw.githubusercontent.com/david325345/regex/main/badges/sev.png",
+   "isEnabled": true,
+   "name": "SEV",
+   "pattern": "\\bSEV\\b",
+   "tagColor": "#00000000",
+   "tagStyle": "filled and bordered",
+   "textColor": "#FFFFFF",
+   "type": "filter"
   }
  ],
  "groups": [
