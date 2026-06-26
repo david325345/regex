@@ -1403,6 +1403,32 @@
    "tagStyle": "filled and bordered",
    "textColor": "#FFFFFF",
    "type": "filter"
+  },
+  {
+   "borderColor": "#00000000",
+   "groupId": "gg",
+   "id": "gg-serenae",
+   "imageURL": "https://raw.githubusercontent.com/david325345/regex/main/badges/serenae.png",
+   "isEnabled": true,
+   "name": "Serenae",
+   "pattern": "(?i)\\bserenae\\b",
+   "tagColor": "#00000000",
+   "tagStyle": "filled and bordered",
+   "textColor": "#FFFFFF",
+   "type": "filter"
+  },
+  {
+   "borderColor": "#00000000",
+   "groupId": "gg",
+   "id": "gg-tribute",
+   "imageURL": "https://raw.githubusercontent.com/david325345/regex/main/badges/tribute.png",
+   "isEnabled": true,
+   "name": "tribute",
+   "pattern": "(?i)\\btribute\\b",
+   "tagColor": "#00000000",
+   "tagStyle": "filled and bordered",
+   "textColor": "#FFFFFF",
+   "type": "filter"
   }
  ],
  "groups": [
