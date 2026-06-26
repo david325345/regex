@@ -1429,6 +1429,19 @@
    "tagStyle": "filled and bordered",
    "textColor": "#FFFFFF",
    "type": "filter"
+  },
+  {
+   "borderColor": "#00000000",
+   "groupId": "gg",
+   "id": "gg-half-baked",
+   "imageURL": "https://raw.githubusercontent.com/david325345/regex/main/badges/half-baked.png",
+   "isEnabled": true,
+   "name": "Half-Baked",
+   "pattern": "(?i)\\bhalf[\\-\\s]?baked\\b",
+   "tagColor": "#00000000",
+   "tagStyle": "filled and bordered",
+   "textColor": "#FFFFFF",
+   "type": "filter"
   }
  ],
  "groups": [
