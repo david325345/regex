@@ -40,14 +40,14 @@
    "type": "filter"
   },
   {
-   "borderColor": "#00000000",
+   "borderColor": "#FF000000",
    "groupId": "gg",
    "id": "gg-varyg",
    "imageURL": "https://raw.githubusercontent.com/david325345/regex/main/badges/varyg.png",
    "isEnabled": true,
    "name": "VARYG",
    "pattern": "(?i)\\bVARYG\\b",
-   "tagColor": "#00000000",
+   "tagColor": "#FF000000",
    "tagStyle": "filled and bordered",
    "textColor": "#FFFFFF",
    "type": "filter"
@@ -612,14 +612,14 @@
    "type": "filter"
   },
   {
-   "borderColor": "#00000000",
+   "borderColor": "#FF000000",
    "groupId": "gres",
    "id": "gres-1080p",
    "imageURL": "https://raw.githubusercontent.com/david325345/regex/main/badges/1080p.png",
    "isEnabled": true,
    "name": "1080p",
    "pattern": "(?i)\\b1080p\\b",
-   "tagColor": "#00000000",
+   "tagColor": "#FF000000",
    "tagStyle": "filled and bordered",
    "textColor": "#FFFFFF",
    "type": "filter"
