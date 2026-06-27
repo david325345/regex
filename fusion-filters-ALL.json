@@ -1335,7 +1335,7 @@
    "name": "CZ",
    "pattern": "(?i)\\b(cz|czech|dabing|cesky|cesk[ey]|titulky)\\b",
    "tagColor": "#00000000",
-   "tagStyle": "filled",
+   "tagStyle": "filled and bordered",
    "textColor": "#FFFFFF",
    "type": "filter"
   },
@@ -1348,7 +1348,7 @@
    "name": "EN",
    "pattern": "(?i)\\b(en|eng|english|engsub|ensub|multi|multisub|multisubs|dual)\\b",
    "tagColor": "#00000000",
-   "tagStyle": "filled",
+   "tagStyle": "filled and bordered",
    "textColor": "#FFFFFF",
    "type": "filter"
   },
@@ -1361,7 +1361,7 @@
    "name": "JP",
    "pattern": "(?i)\\b(jp|jpn|ja|japanese)\\b",
    "tagColor": "#00000000",
-   "tagStyle": "filled",
+   "tagStyle": "filled and bordered",
    "textColor": "#FFFFFF",
    "type": "filter"
   },
@@ -1374,7 +1374,7 @@
    "name": "SK",
    "pattern": "(?i)\\b(sk|svk|slovak|slovensk[yý])\\b",
    "tagColor": "#00000000",
-   "tagStyle": "filled",
+   "tagStyle": "filled and bordered",
    "textColor": "#FFFFFF",
    "type": "filter"
   },
