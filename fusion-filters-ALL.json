@@ -1003,6 +1003,19 @@
   },
   {
    "borderColor": "#00000000",
+   "groupId": "gtag",
+   "id": "gtag-uncensored",
+   "imageURL": "https://raw.githubusercontent.com/david325345/regex/main/badges/uncensored.png",
+   "isEnabled": true,
+   "name": "Uncensored",
+   "pattern": "(?i)\\buncensored\\b",
+   "tagColor": "#00000000",
+   "tagStyle": "filled and bordered",
+   "textColor": "#FFFFFF",
+   "type": "filter"
+  },
+  {
+   "borderColor": "#00000000",
    "groupId": "gplat",
    "id": "gplat-crunchyroll",
    "imageURL": "https://raw.githubusercontent.com/david325345/regex/main/badges/crunchyroll.png",
@@ -1518,6 +1531,13 @@
    "id": "gaud",
    "isExpanded": true,
    "name": "Audio"
+  },
+  {
+   "borderColor": "#00000000",
+   "color": "#FF2436",
+   "id": "gtag",
+   "isExpanded": true,
+   "name": "Tag"
   },
   {
    "borderColor": "#00000000",
