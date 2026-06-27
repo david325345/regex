@@ -912,6 +912,19 @@
   },
   {
    "borderColor": "#FF000000",
+   "groupId": "gg",
+   "id": "gg-nvn",
+   "imageURL": "https://raw.githubusercontent.com/david325345/regex/main/badges/nvn.png",
+   "isEnabled": true,
+   "name": "NVN",
+   "pattern": "\\bNVN\\b",
+   "tagColor": "#FF000000",
+   "tagStyle": "filled and bordered",
+   "textColor": "#FFFFFF",
+   "type": "filter"
+  },
+  {
+   "borderColor": "#FF000000",
    "groupId": "gres",
    "id": "gres-8k",
    "imageURL": "https://raw.githubusercontent.com/david325345/regex/main/badges/8k.png",
