@@ -963,40 +963,40 @@
    "type": "filter"
   },
   {
-   "borderColor": "#FF000000",
+   "borderColor": "#00000000",
    "groupId": "glang",
    "id": "glang-cz",
    "imageURL": "https://raw.githubusercontent.com/david325345/regex/main/badges/cz.png",
    "isEnabled": true,
    "name": "CZ",
    "pattern": "(?i)\\b(cz|czech|dabing|cesky|cesk[ey]|titulky)\\b",
-   "tagColor": "#FF000000",
+   "tagColor": "#00000000",
    "tagStyle": "filled and bordered",
    "textColor": "#FFFFFF",
    "type": "filter"
   },
   {
-   "borderColor": "#FF000000",
+   "borderColor": "#00000000",
    "groupId": "glang",
    "id": "glang-en",
    "imageURL": "https://raw.githubusercontent.com/david325345/regex/main/badges/en.png",
    "isEnabled": true,
    "name": "EN",
    "pattern": "(?i)\\b(en|eng|english|engsub|ensub|multi|multisub|multisubs|dual)\\b",
-   "tagColor": "#FF000000",
+   "tagColor": "#00000000",
    "tagStyle": "filled and bordered",
    "textColor": "#FFFFFF",
    "type": "filter"
   },
   {
-   "borderColor": "#FF000000",
+   "borderColor": "#00000000",
    "groupId": "glang",
    "id": "glang-jp",
    "imageURL": "https://raw.githubusercontent.com/david325345/regex/main/badges/jp.png",
    "isEnabled": true,
    "name": "JP",
    "pattern": "(?i)\\b(jp|jpn|ja|japanese)\\b",
-   "tagColor": "#FF000000",
+   "tagColor": "#00000000",
    "tagStyle": "filled and bordered",
    "textColor": "#FFFFFF",
    "type": "filter"
@@ -1158,14 +1158,14 @@
    "type": "filter"
   },
   {
-   "borderColor": "#FF000000",
+   "borderColor": "#00000000",
    "groupId": "glang",
    "id": "glang-sk",
    "imageURL": "https://raw.githubusercontent.com/david325345/regex/main/badges/sk.png",
    "isEnabled": true,
    "name": "SK",
    "pattern": "(?i)\\b(sk|svk|slovak|slovensk[yý])\\b",
-   "tagColor": "#FF000000",
+   "tagColor": "#00000000",
    "tagStyle": "filled and bordered",
    "textColor": "#FFFFFF",
    "type": "filter"
